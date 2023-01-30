@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Apple watch",
+        "price": 130,
+        "imageUrl": ""
+    },
+    {
+        "name": "Samsung watch",
+        "price": 110,
+        "imageUrl": ""
+    },
+    {
+        "name": "Casio",
+        "price": 100,
+        "imageUrl": ""
+    },
+    {
+        "name": "Urals",
+        "price": 20,
+        "imageUrl": ""
+    }
+]

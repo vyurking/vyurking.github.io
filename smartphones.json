@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Iphone 13",
+        "price": 70,
+        "imageUrl": ""
+    },
+    {
+        "name": "Iphone Х",
+        "price": 50,
+        "imageUrl": ""
+    },
+    {
+        "name": "Iphone 14 pro",
+        "price": 100,
+        "imageUrl": ""
+    },
+    {
+        "name": "Samsung S8",
+        "price": 20,
+        "imageUrl": ""
+    },
+    {
+        "name": "Redmi Note 1337",
+        "price": 20,
+        "imageUrl": ""
+    },
+    {
+        "name": "Nokia",
+        "price": 101,
+        "imageUrl": ""
+    }
+]

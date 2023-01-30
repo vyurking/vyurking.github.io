@@ -1,0 +1,27 @@
+[
+    {
+        "name": "MacBook Pro",
+        "price": 200,
+        "imageUrl": ""
+    },
+    {
+        "name": "MacBook Air",
+        "price": 150,
+        "imageUrl": ""
+    },
+    {
+        "name": "ACER",
+        "price": 100,
+        "imageUrl": ""
+    },
+    {
+        "name": "Samsung",
+        "price": 20,
+        "imageUrl": ""
+    },
+    {
+        "name": "HP G6",
+        "price": 101,
+        "imageUrl": ""
+    }
+]
