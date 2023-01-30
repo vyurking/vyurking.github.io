@@ -2,15 +2,15 @@
     "products": [
         {
             "name": "Смартфоны",
-            "url": ""
+            "url": "https://vyurking.github.io/smartphones.json"
         },
         {
             "name": "Ноутбуки",
-            "url": ""
+            "url": "https://vyurking.github.io/laptop.json"
         },
         {
             "name": "Часы",
-            "url": ""
+            "url": "https://vyurking.github.io/watch.json"
         }
     ]
 }
