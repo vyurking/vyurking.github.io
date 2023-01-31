@@ -2,31 +2,31 @@
     {
         "name": "Iphone 13",
         "price": 70,
-        "imageUrl": ""
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/5222239/img_id806947115954472768.jpeg/orig"
     },
     {
         "name": "Iphone Х",
         "price": 50,
-        "imageUrl": ""
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/5297750/img_id941987657051485243.jpeg/orig"
     },
     {
         "name": "Iphone 14 pro",
         "price": 100,
-        "imageUrl": ""
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/1453843/img_id451398612036948974.png/orig"
     },
     {
         "name": "Samsung S8",
         "price": 20,
-        "imageUrl": ""
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/7016910/img_id898276292715826023.jpeg/orig"
     },
     {
         "name": "Redmi Note 1337",
         "price": 20,
-        "imageUrl": ""
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/7067087/img_id8542553181673491047.jpeg/orig"
     },
     {
         "name": "Nokia",
         "price": 101,
-        "imageUrl": ""
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/5454584/img_id1704000523052522859.jpeg/orig"
     }
 ]

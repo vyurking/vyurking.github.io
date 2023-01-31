@@ -2,26 +2,26 @@
     {
         "name": "MacBook Pro",
         "price": 200,
-        "imageUrl": ""
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/5242361/img_id2420073412246465223.jpeg/orig"
     },
     {
         "name": "MacBook Air",
         "price": 150,
-        "imageUrl": ""
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/5242361/img_id2420073412246465223.jpeg/orig"
     },
     {
         "name": "ACER",
         "price": 100,
-        "imageUrl": ""
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/5242361/img_id2420073412246465223.jpeg/orig"
     },
     {
         "name": "Samsung",
         "price": 20,
-        "imageUrl": ""
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/5242361/img_id2420073412246465223.jpeg/orig"
     },
     {
         "name": "HP G6",
         "price": 101,
-        "imageUrl": ""
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/5242361/img_id2420073412246465223.jpeg/orig"
     }
 ]

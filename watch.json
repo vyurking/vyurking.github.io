@@ -2,21 +2,21 @@
     {
         "name": "Apple watch",
         "price": 130,
-        "imageUrl": ""
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/6069165/img_id5978620203156888347.jpeg/orig"
     },
     {
         "name": "Samsung watch",
         "price": 110,
-        "imageUrl": ""
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/6069165/img_id5978620203156888347.jpeg/orig"
     },
     {
         "name": "Casio",
         "price": 100,
-        "imageUrl": ""
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/6069165/img_id5978620203156888347.jpeg/orig"
     },
     {
         "name": "Urals",
         "price": 20,
-        "imageUrl": ""
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/6069165/img_id5978620203156888347.jpeg/orig"
     }
 ]
